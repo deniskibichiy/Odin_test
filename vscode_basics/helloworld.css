@@ -1,3 +1,9 @@
 body{
-    background-color: aqua;
+    background-color: #25E625;
+}
+
+.main{
+    text-align: center;
+    margin-top: 50%;
+    color: #860BB3;
 }
